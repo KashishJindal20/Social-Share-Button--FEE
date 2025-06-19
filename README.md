@@ -1,4 +1,4 @@
-# 🌐 Social Share Buttons – HTML/CSS
+#  Social Share Buttons 
 
 A simple and responsive layout with social media share buttons using only HTML and CSS. Buttons include:
 
@@ -7,23 +7,20 @@ A simple and responsive layout with social media share buttons using only HTML a
 - LinkedIn
 - WhatsApp
 
-## 💡 Features
+##  Features
 
 - Responsive layout
 - Font Awesome icons
 - Clean hover effects
 
-## 🔧 Tech Used
+##  Tech Used
 
 - HTML
 - CSS
 - Font Awesome
 
-## 🖼 Preview
 
-(Add screenshot of the layout)
-
-## 🚀 How to Use
+##  How to Use
 
 1. Clone this repo
 2. Open `index.html` in a browser
